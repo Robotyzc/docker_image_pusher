@@ -5,5 +5,7 @@ xhofe/alist:latest
 qingpan/rnacos:stable
 portainer/portainer-ce
 portainer/portainer
+elasticsearch:7.7.1
+kibana:7.7.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
